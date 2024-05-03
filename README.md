@@ -1,2 +1,0 @@
-# Ibm-data-science
-assiment
